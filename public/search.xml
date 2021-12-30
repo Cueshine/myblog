@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Try</title>
+      <link href="/2021/12/29/Try/"/>
+      <url>/2021/12/29/Try/</url>
+      
+        <content type="html"><![CDATA[<p>今天想查Albert Einstein的论文，不料却被卢昌海的网站所吸引，他对于爱因斯坦以及反相对论的论述写得不错，我不禁对浏览了其他的文章，了解了一下他的历史。在一片关于普林斯顿大学的相片集中我注意到他在评论区里与曾宁的对话，她说她的祖父曾在这所大学与冯诺依曼漫步，于是我又找到了她的网站，读到了有关她对于发生在她祖父身上的历史。。。</p><p>总之后来我又通过一系列好奇的漫无目的爬虫动作，看到了刘亚洲写的文章：那年发生的一切 仿佛一场历史的“交冉”。大受震撼！可怕的不是可怕本身，而是无知。</p><p>后来找了半天论文，发现还是爱因斯坦文集比较一劳永逸，又人工爬了好久，才找到。喵的又多关注了几个公众号，期间看了不知多少有关爱因斯坦的生平。哎，这样做效率实在是低，以后必须先完成了既定任务才关注其他的。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 无意义 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2021/12/27/hello-world/"/>
+      <url>/2021/12/27/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
